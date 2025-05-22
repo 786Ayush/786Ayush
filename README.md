@@ -1,20 +1,20 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-<h3 align="center">A passionate frontend and backend web3 developer from India</h3>
+<h3 align="center">A passionate frontend and backend MERN developer from India</h3>
 
 <p align="center"> <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="786ayush" /> </p>
 
-- 🔭 I’m currently working on **tezasia-hackathon**
+- 👨‍💻 I’m experienced with **MERN stack, Next.js, Ant Design, Tailwind CSS**
 
-- 🌱 I’m currently learning **web3, nodejs**
+- 🌐 I’ve built projects like **Internship Portal (Codedynamos)** and more
 
-- 💬 Ask me about **C++**
+- ⚡ Fun fact: I enjoy building **real-time apps** and playing around with **design systems**
+
+- 🌍 Portfolio: [https://portfolioofayushgupta.netlify.app/](https://portfolioofayushgupta.netlify.app/)
 
 - 📫 How to reach me **guptaayush617@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-SOmlOWqVqhrjY_7K8r4LBO0esXpU45f/view?usp=drive_link](https://drive.google.com/file/d/1-SOmlOWqVqhrjY_7K8r4LBO0esXpU45f/view?usp=drive_link)
-
-- ⚡ Fun fact **I think i am funny.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FLeOiuNWslXnfgpPYOSraWGQr8B2fC8H/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
